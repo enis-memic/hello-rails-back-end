@@ -29,7 +29,7 @@
 
 > This repository is for Rails API. For front-end app go to:
 
-- [Front End App](https://github.com/enis-memic/hello-react-fronted/pull/1)
+- [Front End App](https://github.com/enis-memic/hello-react-front-end/pull/1)
 
 ## 🛠 Built With <a name="built-with"></a>
 
