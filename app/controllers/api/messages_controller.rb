@@ -1,7 +1,7 @@
 module Api
   class MessagesController < ApplicationController
     def index
-      messages = Message.all.shuffle
+      messages = Message.all.sample
       render json: messages
     end
   end
